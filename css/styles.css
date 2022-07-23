@@ -1,0 +1,48 @@
+
+.menulist {
+    background-color: red;
+    color: blue;
+}
+
+.menulist .menulistitem {
+    background-color: lightgreen;
+    color: purple;
+    font-size: 18px;
+    font-family: sans-serif
+}
+
+.ingredientlist {
+    background-color: lightsalmon;
+}
+
+.ingredientlist .ingredientlistitem {
+    color: darkgreen;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.instructionlist {
+    background-color: lightblue;
+}
+
+.instructionlist .instructionlistitem {
+    color: darkred;
+    font-size: 14px;
+    font-family: sans-serif
+}
+
+h1 {
+    background-color: lightskyblue;
+}
+
+h2 {
+    background-color: lightcoral;
+}
+
+h3 {
+    background-color: lightgoldenrodyellow;
+}
+
+.finish{
+    background-color: green;
+}
